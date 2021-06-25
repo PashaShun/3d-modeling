@@ -1,2 +1,2 @@
 
-<p3> HDMI extender </p3>
+<p1> HDMI extender </p1>
